@@ -1,0 +1,2 @@
+# tugaspraktikum2
+belajarpython
